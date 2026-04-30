@@ -5,23 +5,20 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.1.0</title>
+            <title>Version 2.1.1</title>
             <description><![CDATA[
                 <ul>
-                    <li>Apple Music integration — search and add albums to your library</li>
-                    <li>Community feed — follow Discogs users and see their recent additions</li>
-                    <li>Spotify authentication improvements</li>
-                    <li>Auto-update support via Sparkle</li>
+                    <li>See release notes at https://github.com/j-bucks/waxstack-appcast/releases/tag/v2.1.1</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 30 Apr 2026 12:00:00 -0500</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <pubDate>Thu, 30 Apr 2026 15:04:23 -0600</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/j-bucks/waxstack-appcast/releases/download/v2.1.0/Waxstack.zip"
+            <enclosure url="https://github.com/j-bucks/waxstack-appcast/releases/download/v2.1.1/Waxstack.zip"
                        type="application/octet-stream"
-                       sparkle:edSignature="jSJAH6D6WIauWduTNLdcM9w3Adj+RzzJDl46oShXh69i4Cir1xE/B/2POigxa/GZsqY3hqmIJQcTOfH/roeSDw=="
-                       length="5943869"/>
+                       sparkle:edSignature="UDXjoTW9Yhv/tU/RPfwJNHx+JGTLkUZSU2X7ALjnomD43FbrHRyjY+v6biIhcznBBE9y57aj4I0gqK8qdsd7Bw=="
+                       length="5947110"/>
         </item>
     </channel>
 </rss>
