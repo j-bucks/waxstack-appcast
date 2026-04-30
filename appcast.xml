@@ -18,7 +18,7 @@
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/j-bucks/WaxstackMac/releases/download/v2.1.0/Waxstack.zip"
+            <enclosure url="https://github.com/j-bucks/waxstack-appcast/releases/download/v2.1.0/Waxstack.zip"
                        type="application/octet-stream"
                        sparkle:edSignature="jSJAH6D6WIauWduTNLdcM9w3Adj+RzzJDl46oShXh69i4Cir1xE/B/2POigxa/GZsqY3hqmIJQcTOfH/roeSDw=="
                        length="5943869"/>
