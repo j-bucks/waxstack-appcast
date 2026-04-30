@@ -5,20 +5,20 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.2.3</title>
+            <title>Version 2.2.4</title>
             <description><![CDATA[
                 <ul>
-                    <li>See release notes at https://github.com/j-bucks/waxstack-appcast/releases/tag/v2.2.3</li>
+                    <li>See release notes at https://github.com/j-bucks/waxstack-appcast/releases/tag/v2.2.4</li>
                 </ul>
             ]]></description>
-            <pubDate>Thu, 30 Apr 2026 16:11:48 -0600</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>2.2.3</sparkle:shortVersionString>
+            <pubDate>Thu, 30 Apr 2026 16:14:52 -0600</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>2.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/j-bucks/waxstack-appcast/releases/download/v2.2.3/Waxstack.zip"
+            <enclosure url="https://github.com/j-bucks/waxstack-appcast/releases/download/v2.2.4/Waxstack.zip"
                        type="application/octet-stream"
-                       sparkle:edSignature="6WHJEFqEpm74YR6f17XZaCQYfqeUgE/AStMYBOtmSQzl1SozQghjNDtnh99CYMXjap+CPdFyqx4PXN9TpNvOCA=="
-                       length="6270145"/>
+                       sparkle:edSignature="/+jQelwpGGXc7VkYTX9KF+VUu8gsCcGaSOaWndiqb3wsWuVqxDGv6rJ0s9Xx7AN/t/r6TUZXR+Dk2wfFitx4Aw=="
+                       length="6270214"/>
         </item>
     </channel>
 </rss>
